@@ -100,6 +100,8 @@ Microsoft Power BI
 Data Modeling
 DAX
 Data Visualization
+
 📷 Dashboard Preview
 
-(Add dashboard screenshots here)
+Menu Dashboard 1.PNG
+Menu Dashboard 2.PNG
